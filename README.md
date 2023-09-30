@@ -14,3 +14,4 @@ User authentication and registration.</h5>
 
 <h3>Technology Used :</h3>
 <h4>MERN Stack</h4>
+<a href="https://tailwindcss.com/">Tailwind CSS</a>
